@@ -3,7 +3,7 @@ const linksSocialMedia = {
   youtube: 'UC5-Z5XP1Qt8q8MjRckyTnJA',
   facebook: 'anelisepaz',
   instagram: 'aneepsza_',
-  twitter: 'anniegoesmia'
+  twitter: 'xiexie_1995'
 }
 
 function changeSocialMediaLinks() {
